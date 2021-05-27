@@ -1,4 +1,8 @@
 ## Live Demo : https://chat.sanidhyadash.live
+## Upcoming Updates:
+- Logout
+- UI enhancements
+- User Registration
 
 # Getting Started with Create React App
 
