@@ -1,8 +1,6 @@
 ## Live Demo : https://chat.sanidhyadash.live
-Demo Credentials
-------------------
-Username : demo1
-Password : demo1
+- Username : demo1
+- Password : demo1
 ## Upcoming Updates:
 - Logout
 - UI enhancements
